@@ -8,7 +8,7 @@ Designed with a futuristic UI aesthetic focused on clean engineering, responsive
 
 ## Live Website
 
-[Visit Portfolio](YOUR_DEPLOYED_LINK)
+[Visit Portfolio](https://tichita-dev.vercel.app/)
 
 ---
 
@@ -29,12 +29,14 @@ Designed with a futuristic UI aesthetic focused on clean engineering, responsive
 ## Tech Stack
 
 ### Frontend
+
 - React
 - Vite
 - Tailwind CSS
 - Framer Motion
 
 ### Design
+
 - Geist Font
 - Baguede Display Font
 - Responsive UI/UX
