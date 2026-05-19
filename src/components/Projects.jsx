@@ -9,7 +9,7 @@ const projects = [
 
     github: "https://github.com/tichita7/neoshell-ai",
 
-    live: "https://neoshell-ai-frontend-4m7qj23o3-tichitas-projects.vercel.app/",
+    live: "https://neoshell-ai-frontend.vercel.app/",
   },
 
   {
