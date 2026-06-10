@@ -1,11 +1,31 @@
 const projects = [
   {
+    title: "StackPilot",
+
+    description:
+      "AI-powered developer toolkit featuring code explanation, intelligent debugging, repository analysis, and ATS resume review with secure authentication and real-time analytics.",
+
+    // tech: [
+    //   "React",
+    //   "FastAPI",
+    //   "PostgreSQL",
+    //   "Clerk",
+    //   "Groq",
+    //   "Llama 3.3",
+    //   "Python",
+    // ],
+
+    github: "https://github.com/tichita7/stackPilot",
+
+    live: "https://stack-pilot-agentic.vercel.app",
+  },
+  {
     title: "NeoShell AI",
 
     description:
       "AI-powered platform that converts natural language prompts into terminal commands using modern full-stack architecture.",
 
-    tech: ["React", "FastAPI", "Tailwind CSS", "Groq", "Llama 3.1"],
+    // tech: ["React", "FastAPI", "Tailwind CSS", "Groq", "Llama 3.1", "Python"],
 
     github: "https://github.com/tichita7/neoshell-ai",
 
@@ -18,7 +38,7 @@ const projects = [
     description:
       "Quote generation platform featuring multiple categories, tweet sharing, favorites management, copy-to-clipboard, theme toggling, and responsive UI.",
 
-    tech: ["HTML/CSS", "API", "JavaScript"],
+    // tech: ["HTML/CSS", "API", "JavaScript"],
 
     github: "https://github.com/tichita7/QuoteVerse",
 
@@ -31,7 +51,7 @@ const projects = [
     description:
       "Restaurant discovery platform with category-based browsing, dynamic restaurant listings, responsive UI, and seamless navigation experience.",
 
-    tech: ["HTML", "CSS", "JavaScript"],
+    // tech: ["HTML", "CSS", "JavaScript"],
 
     github: "https://github.com/tichita7/DineSpot",
 
@@ -69,17 +89,6 @@ const Projects = () => {
               <p className="mb-6 text-sm leading-relaxed text-gray-400 sm:text-base">
                 {project.description}
               </p>
-
-              <div className="flex flex-wrap gap-3">
-                {project.tech.map((tech, i) => (
-                  <span
-                    key={i}
-                    className="rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 text-xs text-gray-300 backdrop-blur-sm transition hover:border-violet-500/30 sm:text-sm"
-                  >
-                    {tech}
-                  </span>
-                ))}
-              </div>
 
               <div className="mt-8 flex flex-wrap gap-3 sm:gap-4">
                 <a

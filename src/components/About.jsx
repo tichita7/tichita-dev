@@ -16,10 +16,12 @@ const About = () => {
 
         <div>
           <p className="text-lg leading-relaxed text-stone-300">
-            Computer Science graduate with strong foundations in problem
-            solving, frontend engineering, and scalable UI development.
-            Currently building polished real-world projects while transitioning
-            into software engineering.
+            Computer Science graduate with expertise in Data Structures &
+            Algorithms, modern frontend development, and AI application
+            engineering. Built and deployed full-stack products using React,
+            FastAPI, PostgreSQL, and LLaMA-based models, combining strong
+            problem-solving skills with production-grade software development
+            practices.
           </p>
         </div>
       </div>

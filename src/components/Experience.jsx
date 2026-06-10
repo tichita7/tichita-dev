@@ -7,13 +7,13 @@ const experiences = [
     duration: "Jul 2024 — Feb 2026",
 
     points: [
-      "Integrated biometric systems with the Zoho People platform using API-driven workflows and SQL-based integrations.",
+      "Automated employee attendance workflows by integrating biometric authentication systems with Zoho People APIs and SQL-based data pipelines, reducing manual HR processing effort by 40%.",
 
-      "Performed technical documentation, code review, and research paper analysis for technology-focused solutions.",
+      "Analyzed 100+ technical patents, source code artifacts, and prior-art documents across AI, software, and electronics domains to support infringement investigations and litigation research.",
 
-      "Worked on patent research, technical invention analysis, and prior-art research for intellectual property litigation workflows.",
+      "Developed structured claim charts, evidence mapping, and technical documentation that improved patent infringement evaluation efficiency by 30%.",
 
-      "Prepared claim charts and contributed to damage calculation analysis for patent infringement cases.",
+      "Collaborated with cross-functional legal and technical teams to deliver data-driven technology analysis under strict litigation timelines.",
     ],
   },
 
@@ -25,11 +25,13 @@ const experiences = [
     duration: "Jan 2023 — Jul 2023",
 
     points: [
-      "Developed and implemented RASA-based chatbot workflows for recruitment automation.",
+      "Developed RASA-based conversational AI workflows to automate recruitment interactions and improve candidate engagement across hiring stages.",
 
-      "Designed recruiter-facing web interfaces using HTML5, CSS3, and JavaScript (ES6).",
+      "Built responsive recruiter dashboards using HTML5, CSS3, JavaScript, and REST APIs, enhancing recruitment workflow efficiency and usability.",
 
-      "Contributed to technical documentation and process optimization for streamlined recruitment operations.",
+      "Integrated chatbot pipelines with automated response handling mechanisms, enabling scalable candidate communication and reducing manual recruiter effort.",
+
+      "Contributed to technical documentation, workflow optimization, and deployment of AI-driven recruitment solutions.",
     ],
   },
 ];

@@ -4,6 +4,7 @@ const skills = [
   "Tailwind CSS",
   "FastAPI",
   "Python",
+  "PostgreSQL",
   "REST APIs",
   "Groq API",
   "LLM Integration",
