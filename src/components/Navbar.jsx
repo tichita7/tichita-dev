@@ -47,6 +47,15 @@ const Navbar = () => {
 
           <li className="hidden lg:block">
             <a
+              href="#publications"
+              className="transition duration-300 hover:text-violet-300"
+            >
+              Publications
+            </a>
+          </li>
+
+          <li className="hidden lg:block">
+            <a
               href="#contact"
               className="transition duration-300 hover:text-violet-300"
             >

@@ -1,19 +1,17 @@
 const experiences = [
   {
-    role: "Research Analyst I",
+    role: "Research Analyst - I (Software & Automation)",
 
     company: "CopperPod IP",
 
     duration: "Jul 2024 — Feb 2026",
 
     points: [
-      "Automated employee attendance workflows by integrating biometric authentication systems with Zoho People APIs and SQL-based data pipelines, reducing manual HR processing effort by 40%.",
+      "Integrated biometric attendance hardware with REST APIs and SQL-based data pipelines, processing structured data and automating attendance workflows, reducing manual data-entry errors by 40% and saving 10+ hours weekly.",
 
-      "Analyzed 100+ technical patents, source code artifacts, and prior-art documents across AI, software, and electronics domains to support infringement investigations and litigation research.",
+      "Developed, maintained, and troubleshot Python automation services and data-processing workflows, implementing fixes and enhancements that reduced manual effort by 35% across recurring operational tasks.",
 
-      "Developed structured claim charts, evidence mapping, and technical documentation that improved patent infringement evaluation efficiency by 30%.",
-
-      "Collaborated with cross-functional legal and technical teams to deliver data-driven technology analysis under strict litigation timelines.",
+      "Collaborated across 3+ concurrent technical projects to analyze and deliver time-sensitive technology solutions, maintaining a 100% on-time delivery record.",
     ],
   },
 
@@ -25,13 +23,9 @@ const experiences = [
     duration: "Jan 2023 — Jul 2023",
 
     points: [
-      "Developed RASA-based conversational AI workflows to automate recruitment interactions and improve candidate engagement across hiring stages.",
+      "Developed recruiter-facing dashboards using JavaScript, HTML5, CSS3, and REST APIs, building responsive data-driven interfaces that reduced manual coordination effort by 25% for a team of 10+ recruiters..",
 
-      "Built responsive recruiter dashboards using HTML5, CSS3, JavaScript, and REST APIs, enhancing recruitment workflow efficiency and usability.",
-
-      "Integrated chatbot pipelines with automated response handling mechanisms, enabling scalable candidate communication and reducing manual recruiter effort.",
-
-      "Contributed to technical documentation, workflow optimization, and deployment of AI-driven recruitment solutions.",
+      "Integrated end-to-end conversational pipelines with backend REST APIs, automating response flows and candidate-data processing across multiple recruitment stages.",
     ],
   },
 ];
